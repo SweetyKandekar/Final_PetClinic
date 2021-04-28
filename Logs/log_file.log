@@ -1,8 +1,34 @@
-[2021-04-27T19:22:19.343] [DEBUG] file - Welcome to Petclinic
-[2021-04-27T19:22:19.347] [DEBUG] file - Welcome to Petclinic
-[2021-04-27T19:22:22.036] [DEBUG] file - Pet Types
-[2021-04-27T19:22:22.036] [DEBUG] file - Pet Types page title is verified
-[2021-04-27T19:22:22.105] [DEBUG] file - Add button is enabled in Pet Types page
-[2021-04-27T19:22:22.136] [DEBUG] file - Home button is Enabled in Pet Types page
-[2021-04-27T19:22:22.535] [DEBUG] file - Welcome to Petclinic
-[2021-04-27T19:22:22.536] [DEBUG] file - Welcome to Petclinic
+[2021-04-28T13:08:10.910] [DEBUG] file - Welcome to Petclinic
+[2021-04-28T13:08:10.912] [DEBUG] file - Welcome to Petclinic
+[2021-04-28T13:08:15.703] [DEBUG] file - FirstName length is greater than 2
+[2021-04-28T13:08:16.582] [DEBUG] file - LastName length is greater than 2
+[2021-04-28T13:08:18.104] [DEBUG] file - clicked on TypeDropdown
+[2021-04-28T13:08:18.407] [DEBUG] file - Selected a Specialist type
+[2021-04-28T13:08:18.970] [DEBUG] file - Clicked on save button
+[2021-04-28T13:08:20.607] [DEBUG] file - Vet details are :- Name Special
+[2021-04-28T13:08:21.778] [DEBUG] file - Pet Types
+[2021-04-28T13:08:21.779] [DEBUG] file - Pet Types page title is verified
+[2021-04-28T13:08:22.254] [DEBUG] file - Clicked on Add button in Pet Types page
+[2021-04-28T13:08:23.134] [DEBUG] file - Pet name Entered
+[2021-04-28T13:08:23.173] [DEBUG] file - save button is Enabled
+[2021-04-28T13:08:23.265] [DEBUG] file - Clicked on Save button is Enabled
+[2021-04-28T13:08:23.328] [DEBUG] file - No of pet present-- 7
+[2021-04-28T13:08:23.471] [DEBUG] file - PetType  ::dog
+[2021-04-28T13:08:23.602] [DEBUG] file - PetType  ::lizard
+[2021-04-28T13:08:23.726] [DEBUG] file - PetType  ::snake
+[2021-04-28T13:08:23.875] [DEBUG] file - PetType  ::bird
+[2021-04-28T13:08:24.003] [DEBUG] file - PetType  ::hamster
+[2021-04-28T13:08:24.413] [DEBUG] file - PetType  ::Hybrid
+[2021-04-28T13:08:24.565] [DEBUG] file - PetType  ::Dog
+[2021-04-28T13:08:24.618] [DEBUG] file - Deleted PetType Name is ::dog
+[2021-04-28T13:08:25.017] [DEBUG] file - Welcome to Petclinic
+[2021-04-28T13:08:25.017] [DEBUG] file - Welcome to Petclinic
+[2021-04-28T13:08:25.439] [DEBUG] file - AddOwner Button Disabled
+[2021-04-28T13:08:25.605] [DEBUG] file - First Name length is greater than 2 
+[2021-04-28T13:08:25.767] [DEBUG] file - Last Name length is greater than 2 
+[2021-04-28T13:08:25.938] [DEBUG] file - Address length is greater than 2 
+[2021-04-28T13:08:26.094] [DEBUG] file - City length is greater than 2
+[2021-04-28T13:08:26.321] [DEBUG] file - Telephone length is greater than 2
+[2021-04-28T13:08:26.371] [DEBUG] file - AddOwner Button is Enabled
+[2021-04-28T13:08:28.510] [DEBUG] file - Owner details are :- Protractor Test United Kingdom 977546546
+[2021-04-28T13:08:29.002] [DEBUG] file - Clicked on Back button

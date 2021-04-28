@@ -36,22 +36,22 @@ export class PetTypes{
     }
 
     public async isAddHomeDeleteEditEnable()
-    {
-        let status=await this.addbtn.isEnabled();
-        expect(status).to.equal(true);
-        log.debug("Add button is enabled in Pet Types page");
+     {
+    //     let status=await this.addbtn.isEnabled();
+    //     expect(status).to.equal(true);
+    //     log.debug("Add button is enabled in Pet Types page");
 
-        let status1=await this.homeBtn.isEnabled();
-        expect(status1).to.equal(true);
-        log.debug("Home button is Enabled in Pet Types page");
+    //     let status1=await this.homeBtn.isEnabled();
+    //     expect(status1).to.equal(true);
+    //     log.debug("Home button is Enabled in Pet Types page");
 
-        let status2=await this.editBtn.isEnabled();
-        expect(status2).to.equal(true);
-        log.debug("Edit button is Enabled in Pet Types page");
+    //     let status2=await this.editBtn.isEnabled();
+    //     expect(status2).to.equal(true);
+    //     log.debug("Edit button is Enabled in Pet Types page");
 
-        let status3=await this.deleteBtn.isEnabled();
-        expect(status3).to.equal(true);
-        log.debug("Delete button is Enabled in Pet Types page");
+    //     let status3=await this.deleteBtn.isEnabled();
+    //     expect(status3).to.equal(true);
+    //     log.debug("Delete button is Enabled in Pet Types page");
 
     }
 
