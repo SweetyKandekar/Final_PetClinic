@@ -3,6 +3,7 @@ let reporter = require('cucumber-html-reporter');
 export let config: Config = {
 
     //seleniumAddress: 'http://localhost:4444/wd/hub',
+  
    directConnect: true,
    SELENIUM_PROMISE_MANAGER: false,
     framework: 'custom',
@@ -13,7 +14,7 @@ export let config: Config = {
     
     
    capabilities: {
-     browserName: 'chrome',
+     browserName: 'firefox',
     //  'args': ['--safe-mode'],
     // 'moz:firefoxOptions': {
       //args: [ "--headless" ]
@@ -63,7 +64,7 @@ export let config: Config = {
         metadata: {
             "App Version":"0.3.2",
             "Test Environment": "STAGING",
-            "Browser": "chrome 90.0.4430.93",
+            "Browser": "firefox 87.0",
             "Platform": "Windows 10",
             "Parallel": "Scenarios",
             "Executed": "Remote"

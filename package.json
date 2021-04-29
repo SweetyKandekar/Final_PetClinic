@@ -5,6 +5,7 @@
   "main": "Test",
   "scripts": {
     "pretest": "tsc",
+    
     "test": "protractor C:/Users/Lenovo/Desktop/Final_PetCli/Ts2JsConvert/CucumberConfig.js",
     "prestart": "../node_modules/.bin/webdriver-manager update",
     "start": "../node_modules/.bin/webdriver-manager start",

@@ -15,7 +15,7 @@ pipeline {
     	}
 	post { 
 		success { 
-		    echo "Your Test execution is done and reports at - cucumber_report.html"
+		    echo "Your Test execution is done and reports at- cucumber_report.html"
 		}
 		failure { 
 		    echo "Please check logs for more details."
