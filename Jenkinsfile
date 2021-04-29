@@ -8,14 +8,22 @@ pipeline {
 	stages {
 		stage('Initialize') {
 			steps {
-				echo 'Placeholder.'
+				echo 'Placeholder'
+				//sh 'rm -f /var/lib/jenkins/workspace/FEI_PetClinic_Protractorui/`date +"%Y-%m-%d"`.html'
+				sh """
+					JOB_NAME=${env.JOB_BASE_NAME}
+					rm -f /var/lib/jenkins/workspace/\$JOB_NAME/cucumber_report.html
+					cp /app/cucumber_report.html /var/lib/jenkins/workspace/\$JOB_NAME
+				   """
+				//sh 'cp /app/Reports/`date +"%Y-%m-%d"`.html /var/lib/jenkins/workspace/${env.BUILD_TAG}'
+				
 			}
 		}
 		
     	}
 	post { 
 		success { 
-		    echo "Your Test execution is done and reports at- cucumber_report.html"
+		    echo "Your Test execution is done and reports at - /Reports_A715479/cucumber_report.html"
 		}
 		failure { 
 		    echo "Please check logs for more details."
