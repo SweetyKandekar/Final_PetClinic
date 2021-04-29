@@ -6,15 +6,15 @@
   "scripts": {
     "pretest": "tsc",
     "test": "protractor C:/Users/Lenovo/Desktop/Final_PetCli/Ts2JsConvert/CucumberConfig.js",
-    "prestart": "C:/Users/Lenovo/Desktop/Final_PetCli/node_modules/.bin/webdriver-manager update",
-    "start": "C:/Users/Lenovo/Desktop/Final_PetCli/node_modules/.bin/webdriver-manager start",
-    "protractor": "C:/Users/Lenovo/Desktop/Final_PetCli/node_modules/protractor/built/cli.js",
-    "webdriver_update": "C:/Users/Lenovo/Desktop/Final_PetCli/node_modules/.bin/webdriver-manager update",
-    "clean": "C:/Users/Lenovo/Desktop/Final_PetCli/node_modules/.bin/webdriver-manager clean"
+    "prestart": "../node_modules/.bin/webdriver-manager update",
+    "start": "../node_modules/.bin/webdriver-manager start",
+    "protractor": "../node_modules/protractor/built/cli.js",
+    "webdriver_update": "../node_modules/.bin/webdriver-manager update",
+    "clean": "../node_modules/.bin/webdriver-manager clean"
   },
   "repository": {
     "type": "git",
-    "url": "SweetyKandekar"
+    "url": "https://github.com/SweetyKandekar/Final_PetClinic"
   },
   "author": "Tapasya Kandekar",
   "license": "ISC",
