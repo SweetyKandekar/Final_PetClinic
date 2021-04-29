@@ -45,8 +45,8 @@ Given('user will Navigate to Petclinic Home page and Verify HomePage Title', asy
 
   });
 
-  Then('Verify the Newly added Name in Veterinary page', async ()=> {
+ // Then('Verify the Newly added Name in Veterinary page', async ()=> {
 
-    await newVeterinary.verifyNewVetDetails();
+//    await newVeterinary.verifyNewVetDetails();
     
-  });
+  //});

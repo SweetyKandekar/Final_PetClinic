@@ -52,19 +52,6 @@ export class NewVeterinary
         log.debug("Clicked on save button");
     }
 
-    public async verifyNewVetDetails(){
-
-        await browser.wait( ec.visibilityOf( this.veterinariansTbl ), 20000, 'Taking too long to load' );
-        let veternariDetails=this.veterinariansTbl.all( by.tagName( "tr" )).last();
-       // await browser.actions().mouseMove( veternariDetails ).perform();
-        let vetName = await veternariDetails.getText();    
-        let res= await vetName.substr(0,12);
-        await log.debug( "Vet details are :- " + res );
-       // await expect( vetName ).to.equal( res );
-        await expect( testdata.userData.VeterinariData.vetDetails ).to.equal( res );
-       
-    
-    }
     
 
 }

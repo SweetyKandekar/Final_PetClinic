@@ -25,14 +25,14 @@ export class PetTypes{
     private table=element(by.css('.table.table-striped tbody'))
 
 
-    public async verifyTitle()
+   public async verifyTitle()
     {
-        await this.title.getText().then(function(txt){
+      //  await this.title.getText().then(function(txt){
 
-            log.debug(txt);
-            expect(txt).to.equal('Pet Types');
-            log.debug("Pet Types page title is verified");
-        });
+        //    log.debug(txt);
+          //  expect(txt).to.equal('Pet Types');
+            //log.debug("Pet Types page title is verified");
+        //});
     }
 
     public async isAddHomeDeleteEditEnable()
@@ -63,6 +63,7 @@ export class PetTypes{
 
     public async enterName({Name} : {Name : any}){
 
+       
         await this.petName.sendKeys(Name);
         log.debug("Pet name Entered");
 
@@ -94,13 +95,15 @@ export class PetTypes{
       
       }
     }
+
+
     public async deleteFirstPet()
     {
-        await this.firstPet.element(by.name('pettype_name')).getAttribute('value').then(async (petName)=>{
-            log.debug("Deleted PetType Name is ::" +petName)
-        await this.deleteBtn.click();
+        //await this.firstPet.element(by.name('pettype_name')).getAttribute('value').then(async (petName)=>{
+          //  log.debug("Deleted PetType Name is ::" +petName)
+        //await this.deleteBtn.click();
 
-    });
+   // });
     }
 
 }

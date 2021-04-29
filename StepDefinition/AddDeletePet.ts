@@ -1,6 +1,8 @@
 import {Given,Then,When} from "cucumber";
+import {browser} from "protractor";
 import { Home } from "../PageObjects/Home";
 import { PetTypes } from "../PageObjects/PetTypes";
+import { protractor } from "protractor/built/ptor";
 
 let { setDefaultTimeout } = require('cucumber');
 setDefaultTimeout(50 * 1000);
@@ -18,7 +20,7 @@ Given('User is on Pet Types page', async ()=> {
    
     await petTypes.verifyTitle();
 
-  });
+ });
 
   When('All the buttons in the page are enabled', async ()=> {
    
@@ -27,13 +29,15 @@ Given('User is on Pet Types page', async ()=> {
   });
 
   When('Click on add buttons', async ()=> {
-    
+
+    browser.sleep(2000);
     await petTypes.clickOnAdd();
 
   });
 
   When('Enter the {string} and click on Save button', async (Name:any)=> {
 
+    browser.sleep(2000);
     await petTypes.enterName({Name});
     await petTypes.clickOnSave();
 
