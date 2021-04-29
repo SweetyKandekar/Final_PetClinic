@@ -1,11 +1,34 @@
-[2021-04-29T13:53:02.225] [DEBUG] file - Welcome to Petclinic
-[2021-04-29T13:53:02.225] [DEBUG] file - Welcome to Petclinic
-[2021-04-29T13:53:09.728] [DEBUG] file - AddOwner Button Disabled
-[2021-04-29T13:53:13.473] [DEBUG] file - First Name length is greater than 2 
-[2021-04-29T13:53:13.962] [DEBUG] file - Last Name length is greater than 2 
-[2021-04-29T13:53:14.253] [DEBUG] file - Address length is greater than 2 
-[2021-04-29T13:53:14.528] [DEBUG] file - City length is greater than 2
-[2021-04-29T13:53:14.664] [DEBUG] file - Telephone length is greater than 2
-[2021-04-29T13:53:15.225] [DEBUG] file - AddOwner Button is Enabled
-[2021-04-29T13:53:17.726] [DEBUG] file - Owner details are :- Protractor Test United Kingdom 977546546
-[2021-04-29T13:53:18.634] [DEBUG] file - Clicked on Back button
+[2021-04-29T15:15:10.147] [DEBUG] file - Welcome to Petclinic
+[2021-04-29T15:15:10.156] [DEBUG] file - Welcome to Petclinic
+[2021-04-29T15:15:18.365] [DEBUG] file - FirstName length is greater than 2
+[2021-04-29T15:15:19.749] [DEBUG] file - LastName length is greater than 2
+[2021-04-29T15:15:23.025] [DEBUG] file - clicked on TypeDropdown
+[2021-04-29T15:15:24.225] [DEBUG] file - Selected a Specialist type
+[2021-04-29T15:15:24.980] [DEBUG] file - Clicked on save button
+[2021-04-29T15:15:26.165] [DEBUG] file - Vet details are :- Name Special
+[2021-04-29T15:15:26.976] [DEBUG] file - Pet Types
+[2021-04-29T15:15:26.976] [DEBUG] file - Pet Types page title is verified
+[2021-04-29T15:15:27.294] [DEBUG] file - Clicked on Add button in Pet Types page
+[2021-04-29T15:15:27.346] [DEBUG] file - Pet name Entered
+[2021-04-29T15:15:27.380] [DEBUG] file - save button is Enabled
+[2021-04-29T15:15:27.640] [DEBUG] file - Clicked on Save button is Enabled
+[2021-04-29T15:15:27.686] [DEBUG] file - No of pet present-- 7
+[2021-04-29T15:15:27.772] [DEBUG] file - PetType  ::hamster
+[2021-04-29T15:15:27.849] [DEBUG] file - PetType  ::Hybrid
+[2021-04-29T15:15:27.934] [DEBUG] file - PetType  ::Dog
+[2021-04-29T15:15:28.011] [DEBUG] file - PetType  ::ddf
+[2021-04-29T15:15:28.088] [DEBUG] file - PetType  ::Hybrid
+[2021-04-29T15:15:28.191] [DEBUG] file - PetType  ::Cat
+[2021-04-29T15:15:28.280] [DEBUG] file - PetType  ::Dog
+[2021-04-29T15:15:28.346] [DEBUG] file - Deleted PetType Name is ::hamster
+[2021-04-29T15:15:28.893] [DEBUG] file - Welcome to Petclinic
+[2021-04-29T15:15:28.894] [DEBUG] file - Welcome to Petclinic
+[2021-04-29T15:15:29.614] [DEBUG] file - AddOwner Button Disabled
+[2021-04-29T15:15:29.672] [DEBUG] file - First Name length is greater than 2 
+[2021-04-29T15:15:29.749] [DEBUG] file - Last Name length is greater than 2 
+[2021-04-29T15:15:29.795] [DEBUG] file - Address length is greater than 2 
+[2021-04-29T15:15:29.871] [DEBUG] file - City length is greater than 2
+[2021-04-29T15:15:29.933] [DEBUG] file - Telephone length is greater than 2
+[2021-04-29T15:15:29.984] [DEBUG] file - AddOwner Button is Enabled
+[2021-04-29T15:15:31.961] [DEBUG] file - Owner details are :- Protractor Test United Kingdom 977546546
+[2021-04-29T15:15:32.809] [DEBUG] file - Clicked on Back button

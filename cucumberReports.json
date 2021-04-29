@@ -30,7 +30,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1233000000
+              "duration": 3652000000
             }
           },
           {
@@ -43,7 +43,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2160000000
+              "duration": 6508000000
             }
           },
           {
@@ -56,7 +56,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1573000000
+              "duration": 3006000000
             }
           },
           {
@@ -69,7 +69,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2012000000
+              "duration": 4473000000
             }
           },
           {
@@ -82,7 +82,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 648000000
+              "duration": 754000000
             }
           },
           {
@@ -95,7 +95,7 @@
             },
             "result": {
               "status": "failed",
-              "duration": 1400000000,
+              "duration": 1188000000,
               "error_message": "AssertionError\n    + expected - actual\n\n    -Dr.Suman Babu\n    +Name Special\n\n    at NewVeterinary.<anonymous> (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\PageObjects\\NewVeterinary.ts:64:72)\n    at step (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\PageObjects\\NewVeterinary.js:33:23)\n    at Object.next (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\PageObjects\\NewVeterinary.js:14:53)\n    at fulfilled (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\PageObjects\\NewVeterinary.js:5:58)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)"
             }
           },
@@ -107,7 +107,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 633000000
+              "duration": 353000000
             }
           },
           {
@@ -118,7 +118,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 1000000
             }
           }
         ]
@@ -156,7 +156,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 441000000
+              "duration": 415000000
             }
           },
           {
@@ -169,7 +169,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 29000000
+              "duration": 26000000
             }
           },
           {
@@ -195,7 +195,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 472000000
+              "duration": 312000000
             }
           },
           {
@@ -208,7 +208,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 336000000
+              "duration": 345000000
             }
           },
           {
@@ -221,7 +221,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2285000000
+              "duration": 638000000
             }
           },
           {
@@ -234,7 +234,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1135000000
+              "duration": 301000000
             }
           },
           {
@@ -244,8 +244,7 @@
               "location": "StepDefinition\\hooks.ts:14"
             },
             "result": {
-              "status": "passed",
-              "duration": 1000000
+              "status": "passed"
             }
           },
           {
@@ -256,7 +255,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 2000000
             }
           }
         ]
@@ -294,7 +293,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1548000000
+              "duration": 300000000
             }
           },
           {
@@ -307,7 +306,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 5277000000
+              "duration": 637000000
             }
           },
           {
@@ -320,7 +319,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 621000000
+              "duration": 28000000
             }
           },
           {
@@ -333,7 +332,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 6536000000
+              "duration": 371000000
             }
           },
           {
@@ -346,7 +345,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1755000000
+              "duration": 301000000
             }
           },
           {
@@ -359,7 +358,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1303000000
+              "duration": 1724000000
             }
           },
           {
@@ -372,7 +371,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 908000000
+              "duration": 848000000
             }
           },
           {
@@ -394,7 +393,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 2000000
             }
           }
         ]
