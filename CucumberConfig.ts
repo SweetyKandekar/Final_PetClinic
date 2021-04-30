@@ -38,7 +38,7 @@ export let config: Config = {
       format:'json:./cucumberReports.json',
       
       require: [
-          'C:/Users/Lenovo/Desktop/Final_PetCli/Ts2JsConvert/stepDefinition/*.js',
+          'Ts2JsConvert/stepDefinition/*.js',
       ]
     },
     onPrepare: async() => {
