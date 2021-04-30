@@ -38,7 +38,7 @@ export let config: Config = {
       format:'json:./cucumberReports.json',
       
       require: [
-          'Ts2JsConvert/stepDefinition/*.js',
+          'Ts2JsConvert/StepDefinition/*.js',
       ]
     },
     onPrepare: async() => {
