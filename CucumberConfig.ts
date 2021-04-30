@@ -17,7 +17,7 @@ export let config: Config = {
      browserName: 'firefox',
     // 'args': ['--safe-mode'],
      'moz:firefoxOptions': {
-      args: [ "--headless" ]
+      'args': [ "--headless" ]
   },
 },
    
