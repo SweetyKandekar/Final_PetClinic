@@ -7,7 +7,7 @@
     "pretest": "tsc",
     
     
-    "test": "protractor ../Ts2JsConvert/CucumberConfig.js",
+    "test": "protractor Ts2JsConvert/CucumberConfig.js",
     "prestart": "../node_modules/.bin/webdriver-manager update",
     "start": "../node_modules/.bin/webdriver-manager start",
     "protractor": "../node_modules/protractor/built/cli.js",
