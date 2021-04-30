@@ -1,2 +1,18 @@
-[2021-04-29T21:38:02.670] [DEBUG] file - Owner details are :- Protractor Test United Kingdom 977546546
-[2021-04-29T21:38:05.035] [DEBUG] file - Clicked on Back button
+[2021-04-30T11:11:30.291] [DEBUG] file - Welcome to Petclinic
+[2021-04-30T11:11:30.294] [DEBUG] file - Welcome to Petclinic
+[2021-04-30T11:11:32.849] [DEBUG] file - FirstName length is greater than 2
+[2021-04-30T11:11:33.423] [DEBUG] file - LastName length is greater than 2
+[2021-04-30T11:11:34.610] [DEBUG] file - clicked on TypeDropdown
+[2021-04-30T11:11:34.923] [DEBUG] file - Selected a Specialist type
+[2021-04-30T11:11:35.552] [DEBUG] file - Clicked on save button
+[2021-04-30T11:11:37.817] [DEBUG] file - Welcome to Petclinic
+[2021-04-30T11:11:37.817] [DEBUG] file - Welcome to Petclinic
+[2021-04-30T11:11:38.772] [DEBUG] file - AddOwner Button Disabled
+[2021-04-30T11:11:38.867] [DEBUG] file - First Name length is greater than 2 
+[2021-04-30T11:11:38.966] [DEBUG] file - Last Name length is greater than 2 
+[2021-04-30T11:11:39.014] [DEBUG] file - Address length is greater than 2 
+[2021-04-30T11:11:39.108] [DEBUG] file - City length is greater than 2
+[2021-04-30T11:11:39.179] [DEBUG] file - Telephone length is greater than 2
+[2021-04-30T11:11:39.261] [DEBUG] file - AddOwner Button is Enabled
+[2021-04-30T11:11:41.588] [DEBUG] file - Owner details are :- Protractor Test United Kingdom 977546546
+[2021-04-30T11:11:42.530] [DEBUG] file - Clicked on Back button

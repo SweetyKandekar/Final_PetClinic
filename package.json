@@ -13,6 +13,7 @@
     "protractor": "../node_modules/protractor/built/cli.js",
     "webdriver_update": "../node_modules/.bin/webdriver-manager update",
     "clean": "../node_modules/.bin/webdriver-manager clean"
+    
   },
   "repository": {
     "type": "git",

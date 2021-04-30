@@ -30,7 +30,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3585000000
+              "duration": 3035000000
             }
           },
           {
@@ -43,7 +43,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2722000000
+              "duration": 1537000000
             }
           },
           {
@@ -56,7 +56,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7959000000
+              "duration": 1504000000
             }
           },
           {
@@ -69,7 +69,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 7768000000
+              "duration": 1485000000
             }
           },
           {
@@ -82,7 +82,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1665000000
+              "duration": 624000000
             }
           },
           {
@@ -93,7 +93,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 1000000
             }
           },
           {
@@ -104,7 +104,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3000000
+              "duration": 2000000
             }
           }
         ]
@@ -142,7 +142,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3394000000
+              "duration": 550000000
             }
           },
           {
@@ -154,8 +154,9 @@
               "location": "StepDefinition\\AddDeletePet.ts:31"
             },
             "result": {
-              "status": "passed",
-              "duration": 2913000000
+              "status": "failed",
+              "duration": 191000000,
+              "error_message": "NoSuchElementError: No element found using locator: by.cssContainingText(\".btn-default\", \" Add \")\n    at C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\node_modules\\protractor\\built\\element.js:814:27\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)Error\n    at ElementArrayFinder.applyAction_ (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\node_modules\\protractor\\built\\element.js:459:27)\n    at ElementArrayFinder.<computed> [as click] (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\node_modules\\protractor\\built\\element.js:91:29)\n    at ElementFinder.<computed> [as click] (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\node_modules\\protractor\\built\\element.js:831:22)\n    at PetTypes.<anonymous> (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\PageObjects\\PetTypes.ts:60:27)\n    at step (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\PageObjects\\PetTypes.js:33:23)\n    at Object.next (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\PageObjects\\PetTypes.js:14:53)\n    at C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\PageObjects\\PetTypes.js:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\PageObjects\\PetTypes.js:4:12)\n    at PetTypes.clickOnAdd (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\PageObjects\\PetTypes.js:71:16)\n    at C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\StepDefinition\\AddDeletePet.ts:34:20\n    at step (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\stepDefinition\\AddDeletePet.js:33:23)\n    at Object.next (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\stepDefinition\\AddDeletePet.js:14:53)\n    at C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\stepDefinition\\AddDeletePet.js:8:71\n    at new Promise (<anonymous>)\n    at __awaiter (C:\\Users\\Lenovo\\Desktop\\Final_PetCli\\Ts2JsConvert\\stepDefinition\\AddDeletePet.js:4:12)"
             }
           },
           {
@@ -167,8 +168,7 @@
               "location": "StepDefinition\\AddDeletePet.ts:38"
             },
             "result": {
-              "status": "passed",
-              "duration": 2682000000
+              "status": "skipped"
             }
           },
           {
@@ -180,8 +180,7 @@
               "location": "StepDefinition\\AddDeletePet.ts:46"
             },
             "result": {
-              "status": "passed",
-              "duration": 15526000000
+              "status": "skipped"
             }
           },
           {
@@ -192,7 +191,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1000000
+              "duration": 734000000
             }
           },
           {
@@ -241,7 +240,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 285000000
+              "duration": 415000000
             }
           },
           {
@@ -254,7 +253,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 918000000
+              "duration": 843000000
             }
           },
           {
@@ -280,7 +279,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 456000000
+              "duration": 476000000
             }
           },
           {
@@ -293,7 +292,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 329000000
+              "duration": 430000000
             }
           },
           {
@@ -306,7 +305,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2681000000
+              "duration": 1972000000
             }
           },
           {
@@ -319,7 +318,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2362000000
+              "duration": 941000000
             }
           },
           {
@@ -329,8 +328,7 @@
               "location": "StepDefinition\\hooks.ts:14"
             },
             "result": {
-              "status": "passed",
-              "duration": 1000000
+              "status": "passed"
             }
           },
           {
@@ -341,7 +339,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2000000
+              "duration": 1000000
             }
           }
         ]

@@ -15,10 +15,11 @@ export let config: Config = {
     
    capabilities: {
      browserName: 'firefox',
-    //  'args': ['--safe-mode'],
-    // 'moz:firefoxOptions': {
-      //args: [ "--headless" ]
+     'args': ['--safe-mode'],
+     'moz:firefoxOptions': {
+      args: [ "--headless" ]
   },
+},
    
  
 
