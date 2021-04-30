@@ -10,7 +10,7 @@ RUN java --version
 #RUN apk update && apk upgrade -y && \
 #   apk add -y nodejs \
 #  npm                       # note this one
-RUN apk add  --no-cache --repository http://dl-cdn.alpinelinux.org/alpine/v3.7/main/ nodejs=8.9.3-r1
+RUN apk add  --no-cache --repository http://dl-cdn.alpinelinux.org/alpine/v3.7/main/ nodejs=12.13.1-r1
 
 #RUN \
 #add-pkg --repository http://dl-cdn.alpinelinux.org/alpine/edge/community
